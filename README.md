@@ -11,7 +11,7 @@
 
 ## Desarrollo Movil Integral
 
-## Daniela Álvarez Ramírez
+## Jose Luis Galindo Picazo
  
 ## 10° "A"
 
@@ -22,8 +22,8 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 9: Itemización de las peliculas e incorporación del widget card |
-| Descripción  |  En esta aplicación se modicica la práctica 8, para agregaer cada poster de pelicula en una card. Asi como también se agrega un Apartado para el nombre de la pelicula.|
+| Nombre  |  Práctica 9: Itemización de peliculas e incorporación del widget card en posters |
+| Descripción  |  Esta practica se enfoco principalmente en colocar cads a cada apartado de las peliculas con la ayuda de las Widget Cards, con ello se egrego el espaciado difuminado en la parte baja de cada card donde de va agregado el nombre de la pelicula, todo este trabajando con la practica 8.|
 |  Fecha de Actividad  |  04 de Octubre de 2023  |
 
 &nbsp;
@@ -33,14 +33,11 @@
 &nbsp;
 
 ## Salida
-<p align="center">
-  Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra del poster de peliculas que se ha implementado.
-</p>
-<p align="center">
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizonatal1.png" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizontal2.png" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaVetical1.png" width="30%"/>
-</p>
+
+## Imagenes de Prueba
+[![Captura-de-pantalla-2023-10-06-141527.png](https://i.postimg.cc/Jzhyts7y/Captura-de-pantalla-2023-10-06-141527.png)](https://postimg.cc/xcWj4TzY)
+
+[![A.png](https://i.postimg.cc/7Zb6wjX0/A.png)](https://postimg.cc/xXDYPxw1)
 
 <br>
 <br>
